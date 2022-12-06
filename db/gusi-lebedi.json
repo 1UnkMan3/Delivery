@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gl01",
+    "name": "Veal dumplings with pork",
+    "description": "Real homemade fluffy dough dumplings on rustic yolks and sour cream",
+    "price": 390,
+    "image": "img/gusi-lebedi/dumplings.jpg"
+  },
+  {
+    "id": "gl02",
+    "name": "Pilaf",
+    "description": "Pilaf on coals from the correct rice with lamb, spices and vegetables on chicken fat",
+    "price": 520,
+    "image": "img/gusi-lebedi/plov.jpg"
+  },
+  {
+    "id": "gl03",
+    "name": "Chicken on a spit",
+    "description": "Served on pita bread with fresh tomato and cucumber, with pickled onion and barbecue sauce",
+    "price": 490,
+    "image": "img/gusi-lebedi/chick.jpg"
+  },
+  {
+    "id": "gl04",
+    "name": "Chopped chicken soup",
+    "description": "Chicken carcass, carrots, pasta, greens, egg, salt, spices.",
+    "price": 140,
+    "image": "img/gusi-lebedi/chicken-soup.jpg"
+  },
+  {
+    "id": "gl05",
+    "name": "Piglet chop",
+    "description": "Thick piece of steamed pork with tomatoes and mushrooms under a cheese crust",
+    "price": 490,
+    "image": "img/gusi-lebedi/pig-chop.jpg"
+  },
+  {
+    "id": "gl06",
+    "name": "Calf in cream sauce",
+    "description": "Veal with champignons and onions is fried in a creamy sour cream sauce with mashed potatoes and pickles.",
+    "price": 530,
+    "image": "img/gusi-lebedi/calf-sauce.jpg"
+  },
+  {
+    "id": "gl07",
+    "name": "Pike perch baked",
+    "description": "Pike perch fillet with potatoes, rustic sour cream, herbs and onions",
+    "price": 490,
+    "image": "img/gusi-lebedi/zander.jpg"
+  },
+  {
+    "id": "gl08",
+    "name": "Poland squid",
+    "description": "Poland squid with garlic butter",
+    "price": 420,
+    "image": "img/gusi-lebedi/squid.jpg"
+  },
+  {
+    "id": "gl09",
+    "name": "Pike fish soup on carp",
+    "description": "Rich camping soup on four fish, bay leaf, pepper and onion with vodka.",
+    "price": 380,
+    "image": "img/gusi-lebedi/ear.jpg"
+  }
+]

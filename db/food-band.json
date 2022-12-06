@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fb01",
+    "name": "Meet",
+    "description": "Pizza souse, Mozzarella cheese, tomato, chicken fillet, pepperoni, pork, bacon",
+    "price": 685,
+    "image": "img/food-band/meet.jpg"
+  },
+  {
+    "id": "fb02",
+    "name": "Margarita",
+    "description": "Pizza souse, Mozzarella cheese, tomato",
+    "price": 693,
+    "image": "img/food-band/margarita.jpg"
+  },
+  {
+    "id": "fb03",
+    "name": "Pepperoni",
+    "description": "Pizza souse, pepperoni, Mozzarella cheese",
+    "price": 595,
+    "image": "img/food-band/pepperoni.jpg"
+  },
+  {
+    "id": "fb04",
+    "name": "Seven cheeses",
+    "description": "Mozzarella cheese, emmental cheese, cheese sauce, gorgonzola cheese, cheddar cheese, cremette cheese, feta cheese, parmesan cheese",
+    "price": 785,
+    "image": "img/food-band/seven-cheeses.jpg"
+  },
+  {
+    "id": "fb05",
+    "name": "Tom Yam",
+    "description": "Shrimps, chicken fillet, Tom Yum sauce, Mozzarella cheese, champignons, broccoli cabbage, tomato.",
+    "price": 695,
+    "image": "img/food-band/tom-yam.jpg"
+  },
+  {
+    "id": "fb06",
+    "name": "Norwegian",
+    "description": "Cream sauce, mango-chili sauce, Mozzarella cheese, onion red, Bell pepper, salmon slices, Iceberg salad",
+    "price": 875,
+    "image": "img/food-band/norwegian.jpg"
+  }
+]
